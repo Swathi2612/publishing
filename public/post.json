@@ -1,0 +1,44 @@
+{
+  "Post": [
+    {
+      "id": 1,
+      "title": "abcd",
+      "text": "Note that the development build is not optimized.To create a production build, use npm run build."
+    },
+    {
+      "title": "class",
+      "text": "my class",
+      "id": 2
+    },
+    {
+      "title": "sameer",
+      "text": "my name",
+      "id": 5
+    },
+    {
+      "title": "SUMA",
+      "text": "MY NAME",
+      "id": 6
+    },
+    {
+      "title": "kavan",
+      "text": "my name",
+      "id": 8
+    },
+    {
+      "title": "sam",
+      "text": "sasa",
+      "id": 9
+    },
+    {
+      "title": "dss",
+      "text": "dsds",
+      "id": 10
+    },
+    {
+      "title": "asb",
+      "text": "qwertyuiop[';lkjhgfdsa",
+      "id": 11
+    }
+  ]
+}

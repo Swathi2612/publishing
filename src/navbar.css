@@ -1,0 +1,61 @@
+/* Navbar CSS */
+
+#navbar{
+    height: 130px;
+    background-color: aquamarine;
+}
+#placing{
+    height: 50px;
+    position: relative;
+    top: 50px;
+}
+input{
+    height: 40px;
+    width: 20rem;
+    padding-left: 30px;
+    margin-top: 35px;
+}
+.search{
+    position: relative;    
+    top: 2px;
+    left: 25px;
+}
+.btn{
+    background-color: black;
+    color: #fff;
+    height: 40px;
+    position: relative;
+    right: 25px;
+}
+
+/* Header CSS */
+
+#header{
+    margin: 15px;
+}
+
+.post-btn{
+    margin: 5px;
+    padding: 5px;
+    height: 30px;
+    width: 200px;
+    font-weight: bold;
+    color: black;
+    border-radius: 4px;
+    cursor: pointer;
+    background-color:rgb(106, 240, 195);
+}
+.post-btn:hover{
+    background-color:rgb(64, 132, 109);
+    color: #fff;
+}
+
+/* publishing CSS */
+
+#publishing{
+    display: flex;
+   justify-content: center;
+}
+#publishing div{
+    margin: 5px;
+}

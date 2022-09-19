@@ -1,0 +1,12 @@
+#publish{
+    border: 2px solid;
+    height: 440px;
+    width: 550px;
+    box-sizing: border-box;
+    overflow-y: scroll;
+}
+#output{
+    border:1px solid;
+    width:500px;
+    margin: 5px;   
+}
